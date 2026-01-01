@@ -1,0 +1,7 @@
+loguru
+regex
+pytz
+json
+xmltodict
+beautifulsoup4
+requests
